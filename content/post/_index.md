@@ -1,4 +1,6 @@
 ---
 title: Blog
-view: article-grid
+design:
+    view: article-grid
+    columns: 3
 ---
